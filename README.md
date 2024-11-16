@@ -3,6 +3,10 @@
 ## 👨‍💻 About Me  
 I am a **B.Tech CS-AIML** student at **Ambalika Institute of Management and Technology**, passionate about **Machine Learning**, **Artificial Intelligence**, **Data Science**, and **Analytics**. With a track record of academic excellence and active participation in research and development, I aim to build impactful solutions that bridge the gap between technology and real-world challenges.  
 
+![image](https://github.com/user-attachments/assets/586aadf9-3be6-4e81-aaa7-5f02e2726fcb)
+
+
+
 ## 🏆 Highlights  
 - **100% Attendance** across all semesters.  
 - **Member of IEEE Student Branch** (Program Committee) and **Enegma Club** (Software and IT Department).  
